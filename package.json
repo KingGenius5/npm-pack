@@ -1,0 +1,16 @@
+{
+  "name": "tifak-num-pack",
+  "version": "1.0.0",
+  "description": "This is a test for a number randomizer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "numbers",
+    "random"
+  ],
+  "author": "muhammadtifak",
+  "license": "ISC"
+}
